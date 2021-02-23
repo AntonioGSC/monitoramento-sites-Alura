@@ -1,0 +1,12 @@
+22/02/2021 21:14:13 - https://slack.com/intl/pt-br/ - online: true
+22/02/2021 21:14:14 - https://github.com/ - online: true
+22/02/2021 21:14:14 - https://hub.docker.com/ - online: true
+22/02/2021 21:14:15 - https://www.linkedin.com/ - online: true
+22/02/2021 21:14:17 - https://slack.com/intl/pt-br/ - online: true
+22/02/2021 21:14:17 - https://github.com/ - online: true
+22/02/2021 21:14:18 - https://hub.docker.com/ - online: true
+22/02/2021 21:14:18 - https://www.linkedin.com/ - online: true
+22/02/2021 21:14:20 - https://slack.com/intl/pt-br/ - online: true
+22/02/2021 21:14:20 - https://github.com/ - online: true
+22/02/2021 21:14:21 - https://hub.docker.com/ - online: true
+22/02/2021 21:14:21 - https://www.linkedin.com/ - online: true
